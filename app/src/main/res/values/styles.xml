@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 기본 테마 설정 -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- 액션바 색상 -->
+        <item name="colorPrimary">@color/action_bar_background</item>
+        <item name="colorPrimaryDark">@color/action_bar_text_color</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- 액션바의 색상 설정 -->
+    <style name="ActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/action_bar_background</item>
+        <item name="android:titleTextStyle">@style/ActionBarTitleText</item>
+    </style>
+
+    <!-- 액션바 텍스트 색상 -->
+    <style name="ActionBarTitleText">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+</resources>
