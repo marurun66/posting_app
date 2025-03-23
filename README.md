@@ -46,7 +46,7 @@ Retrofit2를 통해 서버와 통신하며, 사용자 인증, 글 작성, 이미
 
 ## 📷 시연 화면
 
-[> (여기에 시연 영상 링크나 GIF 삽입)](https://www.canva.com/design/DAGih3G66cQ/8mNU0r8-Nq5eUtZrjr1Z-A/watch?utm_content=DAGih3G66cQ&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
+[> (🎥시연 영상 보기)](https://www.canva.com/design/DAGih3G66cQ/8mNU0r8-Nq5eUtZrjr1Z-A/watch?utm_content=DAGih3G66cQ&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
 
 ---
 
